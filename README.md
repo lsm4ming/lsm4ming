@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://your-image-url.com/your-image.png" width="150" height="150">
+  <img src="https://avatars.githubusercontent.com/u/46668382" width="150" height="150">
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Your Name</h1>
