@@ -1,8 +1,27 @@
 ### Hi there 👋
 
-<!--
-**kevwan/kevwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p align="center">
+  <img src="https://your-image-url.com/your-image.png" width="150" height="150">
+</p>
+
+<h1 align="center">Hi there! 👋 I'm Your Name</h1>
+
+<p align="center">
+  A passionate software developer from [Your City/Country] 🚀
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-YourGitHubUsername-000?style=flat&logo=github">
+  <img src="https://img.shields.io/badge/Languages-JavaScript%20%7C%20Python%20%7C%20Ruby-000?style=flat">
+  <img src="https://img.shields.io/badge/Tools-VSCode%20%7C%20Docker%20%7C%20Git-000?style=flat">
+</p>
+
+### About Me ℹ️
+- 🔭 I’m currently working on [Your Current Project]
+- 🌱 I’m currently learning [Something New]
+- 💬 Ask me about [Your Tech Stack]
+- 📫 How to reach me: [Your Contact Information]
+- 😄 Pronouns: [Your Pronouns]
 
 Here are some quick things about me:
 
