@@ -5,7 +5,7 @@
 <h1 align="center">Hi there! 👋 I'm lsm1998</h1>
 
 <p align="center">
-  A passionate software developer from 怀化 🚀
+  A passionate software developer from Huaihua 🚀
 </p>
 
 ### About Me ℹ️
