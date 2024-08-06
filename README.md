@@ -11,8 +11,8 @@
 </p>
 
 ### About Me ℹ️
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Something New]
+- 🔭 I’m currently working on tiny series...
+- 🌱 I’m currently learning C++/Rust
 - 📫 How to reach me: lsm19980104@gmail.com
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lsm1998&theme=github)
