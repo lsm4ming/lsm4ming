@@ -10,12 +10,6 @@
   A passionate software developer from 怀化 🚀
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-lsm1998-000?style=flat&logo=github">
-  <img src="https://img.shields.io/badge/Languages-JavaScript%20%7C%20Python%20%7C%20Ruby-000?style=flat">
-  <img src="https://img.shields.io/badge/Tools-VSCode%20%7C%20Docker%20%7C%20Git-000?style=flat">
-</p>
-
 ### About Me ℹ️
 - 🔭 I’m currently working on [Your Current Project]
 - 🌱 I’m currently learning [Something New]
