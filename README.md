@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/46668382" width="150" height="150">
 </p>
