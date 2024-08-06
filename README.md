@@ -13,9 +13,7 @@
 ### About Me ℹ️
 - 🔭 I’m currently working on [Your Current Project]
 - 🌱 I’m currently learning [Something New]
-- 💬 Ask me about [Your Tech Stack]
-- 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: [Your Pronouns]
+- 📫 How to reach me: lsm19980104@gmail.com
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lsm1998&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lsm1998&theme=github)
